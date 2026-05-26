@@ -12,11 +12,6 @@ Complete ERP platform for colleges and educational institutions.
 - Staff Portal
 - Chairman Dashboard
 
-## Technology Stack
-- Angular
-- Node.js
-- Express.js
-- PostgreSQL
 
 ## ERP Portal
 [https://ngik.thenehrugroup.com](https://ngik.thenehrugroup.com:9443/api5/erp/)
