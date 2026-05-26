@@ -19,7 +19,7 @@ Complete ERP platform for colleges and educational institutions.
 - PostgreSQL
 
 ## ERP Portal
-https://ngik.thenehrugroup.com
+[https://ngik.thenehrugroup.com](https://ngik.thenehrugroup.com:9443/api5/erp/)
 
 ## API
 https://ngik.thenehrugroup.com:9443/api5/erp/
