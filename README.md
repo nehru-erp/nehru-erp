@@ -16,8 +16,7 @@ Complete ERP platform for colleges and educational institutions.
 ## ERP Portal
 [https://ngik.thenehrugroup.com](https://ngik.thenehrugroup.com:9443/api5/erp/)
 
-## API
-https://ngik.thenehrugroup.com:9443/api5/erp/
+
 
 ## Keywords
 Nehru ERP, College ERP Kerala, Education ERP, Student Portal, Academic ERP System
